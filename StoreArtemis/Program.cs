@@ -8,9 +8,8 @@ namespace StoreArtemis
 {
     static class Program
     {
-        /// <summary>
-        /// Punto de entrada principal para la aplicación.
-        /// </summary>
+        // Taller 2
+		// Por: Juan David Gaviria Correa, Juan Pablo Garcia
         [STAThread]
         static void Main()
         {
