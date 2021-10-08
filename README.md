@@ -1,6 +1,6 @@
 # Taller 2 :smile:
 
-##### Por: Juan David Gaviria Correa, Juan Pablo Garcia ...
+##### Por: Juan David Gaviria Correa, Juan Pablo Garcia, Melissa Mahecha Garcia  ...
 
 El taller se encuentra [aqui](https://github.com/juanpasco13/StoreArtemis/Extras/Ejercicio/Taller2.docx "Taller 2").
 
